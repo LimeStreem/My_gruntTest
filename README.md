@@ -1,5 +1,7 @@
 # TestGrunt
 
+[![Join the chat at https://gitter.im/LimeStreem/My_gruntTest](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LimeStreem/My_gruntTest?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is only the project for test grunt
 
 ## Getting Started
